@@ -1,0 +1,29 @@
+html {
+  font-family: 'Roboto', Arial;
+ }
+ 
+ .title {
+   color: white;
+   text-align: center;
+   background-color: black;
+ }
+ 
+ .text {
+   text-align: justify;
+ }
+ 
+ .footer {
+   color: white;
+   line-height: 100px;
+   text-align: center;
+   background-color: dimgray;
+ }
+ 
+
+.box {
+  width: 300px;
+  background-color: aqua;
+  padding: 50px;
+  margin: 20px;
+}
+ 
